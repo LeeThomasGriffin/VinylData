@@ -1,3 +1,5 @@
+#this file prints record name, artist name and record for each 
+#record on different websites from one singular run
 import datetime
 from bs4 import BeautifulSoup
 import requests
